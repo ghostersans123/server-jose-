@@ -1,0 +1,593 @@
+{
+  "spartanweaponry:recipes/spartanweaponry.modded/throwing_knife_silver": {
+    "criteria": {
+      "has_silver_ingot": "2024-10-26 14:16:45 -0500"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/spartanweaponry.modded/throwing_knife_copper": {
+    "criteria": {
+      "has_copper_ingot": "2024-10-26 14:16:45 -0500"
+    },
+    "done": true
+  },
+  "ironchest:recipes/ironchest/chests/vanilla_copper_chest": {
+    "criteria": {
+      "has_item": "2024-10-26 14:16:45 -0500"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/spartanweaponry.modded/lance_silver": {
+    "criteria": {
+      "has_silver_ingot": "2024-10-26 14:16:45 -0500"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/farmersdelight/organic_compost_from_rotten_flesh": {
+    "criteria": {
+      "has_rotten_flesh": "2024-10-26 14:16:45 -0500"
+    },
+    "done": true
+  },
+  "obscure_api:recipes/obscure_book": {
+    "criteria": {
+      "has_item": "2024-10-25 18:50:22 -0500"
+    },
+    "done": true
+  },
+  "tconstruct:tools/materials_and_you": {
+    "criteria": {
+      "crafted_book": "2024-10-25 18:50:23 -0500"
+    },
+    "done": true
+  },
+  "simpleores:copper_helmet": {
+    "criteria": {
+      "has_item": "2024-10-26 14:16:45 -0500"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/spartanweaponry.modded/greatsword_silver": {
+    "criteria": {
+      "has_silver_ingot": "2024-10-26 14:16:44 -0500"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/spartanweaponry.modded/rapier_silver": {
+    "criteria": {
+      "has_silver_ingot": "2024-10-26 14:16:44 -0500"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/spartanweaponry.modded/longsword_silver": {
+    "criteria": {
+      "has_silver_ingot": "2024-10-26 14:16:45 -0500"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/spartanweaponry.modded/hammer_silver": {
+    "criteria": {
+      "has_silver_ingot": "2024-10-26 14:16:45 -0500"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/spartanweaponry.modded/lance_copper": {
+    "criteria": {
+      "has_copper_ingot": "2024-10-26 14:16:45 -0500"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/spartanweaponry.modded/tomahawk_silver": {
+    "criteria": {
+      "has_silver_ingot": "2024-10-26 14:16:45 -0500"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/root": {
+    "criteria": {
+      "tick": "2024-10-25 18:50:23 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/chest": {
+    "criteria": {
+      "has_lots_of_items": "2024-10-26 14:16:45 -0500"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/spartanweaponry.modded/rapier_copper": {
+    "criteria": {
+      "has_copper_ingot": "2024-10-26 14:16:45 -0500"
+    },
+    "done": true
+  },
+  "mcwfurnitures:recipes/dark_oak": {
+    "criteria": {
+      "has_wood": "2024-10-25 18:50:21 -0500"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/spartanweaponry.modded/longsword_copper": {
+    "criteria": {
+      "has_copper_ingot": "2024-10-26 14:16:45 -0500"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/spartanweaponry.modded/tomahawk_copper": {
+    "criteria": {
+      "has_copper_ingot": "2024-10-26 14:16:45 -0500"
+    },
+    "done": true
+  },
+  "mcwfurnitures:recipes/jungle": {
+    "criteria": {
+      "has_wood": "2024-10-25 18:50:21 -0500"
+    },
+    "done": true
+  },
+  "tconstruct:recipes/tconstruct/gadgets/gadgets/frame/gold": {
+    "criteria": {
+      "has_item": "2024-10-26 14:16:45 -0500"
+    },
+    "done": true
+  },
+  "ironchest:recipes/ironchest/chests/vanilla_dirt_chest": {
+    "criteria": {
+      "has_iron_ingot": "2024-10-26 14:17:15 -0500"
+    },
+    "done": true
+  },
+  "undergarden:undergarden/root": {
+    "criteria": {
+      "tick": "2024-10-25 18:50:23 -0500"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/spartanweaponry.modded/hammer_copper": {
+    "criteria": {
+      "has_copper_ingot": "2024-10-26 14:16:45 -0500"
+    },
+    "done": true
+  },
+  "mcwfurnitures:recipes/spruce": {
+    "criteria": {
+      "has_wood": "2024-10-25 18:50:21 -0500"
+    },
+    "done": true
+  },
+  "mowziesmobs:root": {
+    "criteria": {
+      "custom_test_name": "2024-10-25 18:50:23 -0500"
+    },
+    "done": true
+  },
+  "tconstruct:recipes/tconstruct/smeltery/smeltery/copper_can": {
+    "criteria": {
+      "has_item": "2024-10-26 14:16:45 -0500"
+    },
+    "done": true
+  },
+  "valhelsia_structures:recipes/valhelsia_structures_main/bone_pile": {
+    "criteria": {
+      "has_item": "2024-10-26 14:16:45 -0500"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/spartanweaponry.modded/dagger_silver": {
+    "criteria": {
+      "has_silver_ingot": "2024-10-26 14:16:45 -0500"
+    },
+    "done": true
+  },
+  "simpleores:copper_pickaxe": {
+    "criteria": {
+      "has_item": "2024-10-26 14:16:45 -0500"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/spartanweaponry.modded/flanged_mace_copper": {
+    "criteria": {
+      "has_copper_ingot": "2024-10-26 14:16:45 -0500"
+    },
+    "done": true
+  },
+  "cataclysm:root": {
+    "criteria": {
+      "custom_test_name": "2024-10-25 18:50:23 -0500"
+    },
+    "done": true
+  },
+  "mcwfurnitures:recipes/oak": {
+    "criteria": {
+      "has_wood": "2024-10-25 18:50:22 -0500"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/spartanweaponry.modded/dagger_copper": {
+    "criteria": {
+      "has_copper_ingot": "2024-10-26 14:16:45 -0500"
+    },
+    "done": true
+  },
+  "mcwfurnitures:recipes/warped": {
+    "criteria": {
+      "has_wood": "2024-10-25 18:50:22 -0500"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/spartanweaponry.modded/boomerang_copper": {
+    "criteria": {
+      "has_copper_ingot": "2024-10-26 14:16:45 -0500"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/spartanweaponry.modded/boomerang_silver": {
+    "criteria": {
+      "has_silver_ingot": "2024-10-26 14:16:45 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/golden_carrot": {
+    "criteria": {
+      "has_gold_nugget": "2024-10-26 14:16:45 -0500"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/spartanweaponry.modded/javelin_silver": {
+    "criteria": {
+      "has_silver_ingot": "2024-10-26 14:16:44 -0500"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/spartanweaponry.modded/scythe_silver": {
+    "criteria": {
+      "has_silver_ingot": "2024-10-26 14:16:45 -0500"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/spartanweaponry.modded/flanged_mace_silver": {
+    "criteria": {
+      "has_silver_ingot": "2024-10-26 14:16:45 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/bone_meal": {
+    "criteria": {
+      "has_bone": "2024-10-26 14:16:45 -0500"
+    },
+    "done": true
+  },
+  "biomesoplenty:biomesoplenty/root": {
+    "criteria": {
+      "marsh": "2024-10-26 14:16:54 -0500"
+    },
+    "done": true
+  },
+  "tconstruct:recipes/tconstruct/tools/armor/building/travelers_chestplate": {
+    "criteria": {
+      "has_item": "2024-10-26 14:16:45 -0500"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/spartanweaponry.modded/javelin_copper": {
+    "criteria": {
+      "has_copper_ingot": "2024-10-26 14:16:45 -0500"
+    },
+    "done": true
+  },
+  "simpleores:copper_bucket": {
+    "criteria": {
+      "has_item": "2024-10-26 14:16:45 -0500"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/spartanweaponry.modded/parrying_dagger_silver": {
+    "criteria": {
+      "has_silver_ingot": "2024-10-26 14:16:45 -0500"
+    },
+    "done": true
+  },
+  "simpleores:copper_sword": {
+    "criteria": {
+      "has_item": "2024-10-26 14:16:45 -0500"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/spartanweaponry.modded/parrying_dagger_copper": {
+    "criteria": {
+      "has_copper_ingot": "2024-10-26 14:16:45 -0500"
+    },
+    "done": true
+  },
+  "simpleores:copper_shovel": {
+    "criteria": {
+      "has_item": "2024-10-26 14:16:45 -0500"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/spartanweaponry.modded/greatsword_copper": {
+    "criteria": {
+      "has_copper_ingot": "2024-10-26 14:16:45 -0500"
+    },
+    "done": true
+  },
+  "ironchest:recipes/ironchest/chests/copper_silver_chest": {
+    "criteria": {
+      "has_item": "2024-10-26 14:16:44 -0500"
+    },
+    "done": true
+  },
+  "mcwfurnitures:recipes/birch": {
+    "criteria": {
+      "has_wood": "2024-10-25 18:50:22 -0500"
+    },
+    "done": true
+  },
+  "simpleores:copper_shears": {
+    "criteria": {
+      "has_item": "2024-10-26 14:16:45 -0500"
+    },
+    "done": true
+  },
+  "valhelsia_structures:recipes/valhelsia_structures_main/bone_pile_block": {
+    "criteria": {
+      "has_item": "2024-10-26 14:16:45 -0500"
+    },
+    "done": true
+  },
+  "ironchest:recipes/ironchest/upgrades/copper_to_silver_chest_upgrade": {
+    "criteria": {
+      "has_item": "2024-10-26 14:16:45 -0500"
+    },
+    "done": true
+  },
+  "simpleores:copper_leggings": {
+    "criteria": {
+      "has_item": "2024-10-26 14:16:45 -0500"
+    },
+    "done": true
+  },
+  "spartanweaponry:collect_heads": {
+    "criteria": {
+      "skeleton_skull": "2024-10-26 14:16:45 -0500"
+    },
+    "done": false
+  },
+  "ironchest:recipes/ironchest/chests/silver_gold_chest": {
+    "criteria": {
+      "has_item": "2024-10-26 14:16:44 -0500"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/spartanweaponry.modded/pike_silver": {
+    "criteria": {
+      "has_silver_ingot": "2024-10-26 14:16:44 -0500"
+    },
+    "done": true
+  },
+  "mcwfurnitures:recipes/crimson": {
+    "criteria": {
+      "has_wood": "2024-10-25 18:50:21 -0500"
+    },
+    "done": true
+  },
+  "biomesoplenty:biomesoplenty/all_biomes": {
+    "criteria": {
+      "marsh": "2024-10-26 14:16:54 -0500",
+      "grassland": "2024-10-26 14:17:02 -0500"
+    },
+    "done": false
+  },
+  "spartanweaponry:recipes/spartanweaponry.modded/warhammer_silver": {
+    "criteria": {
+      "has_silver_ingot": "2024-10-26 14:16:44 -0500"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:jungle_edge": "2024-10-26 14:15:20 -0500",
+      "minecraft:plains": "2024-10-25 18:50:23 -0500"
+    },
+    "done": false
+  },
+  "spartanweaponry:recipes/spartanweaponry.modded/longbow_silver": {
+    "criteria": {
+      "has_silver_ingot": "2024-10-26 14:16:44 -0500"
+    },
+    "done": true
+  },
+  "simpleores:copper_hoe": {
+    "criteria": {
+      "has_item": "2024-10-26 14:16:45 -0500"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/spartanweaponry.modded/spear_copper": {
+    "criteria": {
+      "has_copper_ingot": "2024-10-26 14:16:45 -0500"
+    },
+    "done": true
+  },
+  "simpleores:copper_axe": {
+    "criteria": {
+      "has_item": "2024-10-26 14:16:45 -0500"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/spartanweaponry.modded/pike_copper": {
+    "criteria": {
+      "has_copper_ingot": "2024-10-26 14:16:45 -0500"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/spartanweaponry.modded/scythe_copper": {
+    "criteria": {
+      "has_copper_ingot": "2024-10-26 14:16:45 -0500"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/spartanweaponry.modded/longbow_copper": {
+    "criteria": {
+      "has_copper_ingot": "2024-10-26 14:16:45 -0500"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/spartanweaponry.modded/glaive_silver": {
+    "criteria": {
+      "has_silver_ingot": "2024-10-26 14:16:44 -0500"
+    },
+    "done": true
+  },
+  "simpleores:copper_boots": {
+    "criteria": {
+      "has_item": "2024-10-26 14:16:45 -0500"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/spartanweaponry.modded/spear_silver": {
+    "criteria": {
+      "has_silver_ingot": "2024-10-26 14:16:45 -0500"
+    },
+    "done": true
+  },
+  "farmersdelight:main/root": {
+    "criteria": {
+      "seeds": "2024-10-25 18:50:22 -0500"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/spartanweaponry.modded/battleaxe_silver": {
+    "criteria": {
+      "has_silver_ingot": "2024-10-26 14:16:44 -0500"
+    },
+    "done": true
+  },
+  "tconstruct:recipes/tconstruct/tools/armor/building/travelers_pants": {
+    "criteria": {
+      "has_item": "2024-10-26 14:16:45 -0500"
+    },
+    "done": true
+  },
+  "tconstruct:recipes/tconstruct/tools/armor/building/travelers_goggles": {
+    "criteria": {
+      "has_item": "2024-10-26 14:16:45 -0500"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/spartanweaponry.modded/battleaxe_copper": {
+    "criteria": {
+      "has_copper_ingot": "2024-10-26 14:16:45 -0500"
+    },
+    "done": true
+  },
+  "ironchest:recipes/ironchest/chests/iron_silver_chest": {
+    "criteria": {
+      "has_item": "2024-10-26 14:16:44 -0500"
+    },
+    "done": true
+  },
+  "simpleores:copper_chestplate": {
+    "criteria": {
+      "has_item": "2024-10-26 14:16:45 -0500"
+    },
+    "done": true
+  },
+  "dungeons_arise:wda_root": {
+    "criteria": {
+      "WDA": "2024-10-25 18:50:23 -0500"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/spartanweaponry.modded/katana_copper": {
+    "criteria": {
+      "has_copper_ingot": "2024-10-26 14:16:45 -0500"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/spartanweaponry.modded/quarterstaff_copper": {
+    "criteria": {
+      "has_copper_ingot": "2024-10-26 14:16:45 -0500"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/spartanweaponry.modded/halberd_silver": {
+    "criteria": {
+      "has_silver_ingot": "2024-10-26 14:16:44 -0500"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/spartanweaponry.modded/glaive_copper": {
+    "criteria": {
+      "has_copper_ingot": "2024-10-26 14:16:45 -0500"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/spartanweaponry.modded/saber_copper": {
+    "criteria": {
+      "has_copper_ingot": "2024-10-26 14:16:45 -0500"
+    },
+    "done": true
+  },
+  "tconstruct:recipes/tconstruct/tools/armor/building/travelers_boots": {
+    "criteria": {
+      "has_item": "2024-10-26 14:16:45 -0500"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/spartanweaponry.modded/saber_silver": {
+    "criteria": {
+      "has_silver_ingot": "2024-10-26 14:16:44 -0500"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/spartanweaponry.modded/heavy_crossbow_silver": {
+    "criteria": {
+      "has_silver_ingot": "2024-10-26 14:16:45 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_ingot_from_nuggets": {
+    "criteria": {
+      "has_gold_nugget": "2024-10-26 14:16:45 -0500"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/spartanweaponry.modded/heavy_crossbow_copper": {
+    "criteria": {
+      "has_copper_ingot": "2024-10-26 14:16:45 -0500"
+    },
+    "done": true
+  },
+  "mcwfurnitures:recipes/acacia": {
+    "criteria": {
+      "has_wood": "2024-10-25 18:50:22 -0500"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/spartanweaponry.modded/halberd_copper": {
+    "criteria": {
+      "has_copper_ingot": "2024-10-26 14:16:45 -0500"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/spartanweaponry.modded/quarterstaff_silver": {
+    "criteria": {
+      "has_silver_ingot": "2024-10-26 14:16:44 -0500"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/spartanweaponry.modded/warhammer_copper": {
+    "criteria": {
+      "has_copper_ingot": "2024-10-26 14:16:45 -0500"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/spartanweaponry.modded/katana_silver": {
+    "criteria": {
+      "has_silver_ingot": "2024-10-26 14:16:44 -0500"
+    },
+    "done": true
+  },
+  "DataVersion": 2586
+}
